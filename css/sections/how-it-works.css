@@ -1,0 +1,37 @@
+.how-it-works {
+  margin-top: 169px;
+}
+
+.how-it-works-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.how-it-works-title {
+  margin-bottom: -3px;
+  color: #424242;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 157%;
+}
+.how-it-works-subtitle {
+  max-width: 584px;
+  color: #01996d;
+  font-family: Georgia;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 157%;
+}
+.how-it-works-header-content {
+  display: flex;
+  color: #424242;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 150%;
+  max-width: 671px;
+  padding-left: 136px;
+  padding-top: 58px;
+}
