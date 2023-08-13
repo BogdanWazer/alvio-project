@@ -6,7 +6,9 @@
 
 /* Sections */
 @import url(./sections/header.css);
+@import url(./sections/home.css);
 
+/* General CSS */
 body {
   font-family: 'Lato', sans-serif;
   font-size: 20px;
