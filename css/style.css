@@ -9,6 +9,9 @@
 @import url(./sections/home.css);
 @import url(./sections/how-it-works.css);
 @import url(./sections/story.css);
+@import url(./sections/product.css);
+@import url(./sections/card.css);
+@import url(./sections/footer.css);
 
 /* General CSS */
 body {
