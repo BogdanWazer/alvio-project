@@ -44,8 +44,24 @@ body {
   margin-right: auto;
 }
 
+@media (max-width: 1399px) {
+  .container {
+    width: 100%;
+  }
+}
+
 .container-wide {
   width: 1536px;
   padding-left: 15px;
   padding-right: 15px;
+}
+
+@media (max-width: 991px) {
+  body {
+    font-size: 18px;
+  }
+
+  .btn-big {
+    padding: 30px;
+  }
 }

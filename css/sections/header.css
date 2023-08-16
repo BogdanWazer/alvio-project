@@ -68,3 +68,24 @@ a.btn-big {
   min-height: 65px;
   padding: 20px 50px;
 }
+
+@media (max-width: 1199px) {
+  .header-nav {
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+  .header-row {
+    justify-content: space-between;
+  }
+
+  .header-login {
+    margin-left: unset;
+  }
+}
+
+@media (max-width: 991px) {
+  .header-nav,
+  .header-login {
+    display: none;
+  }
+}
